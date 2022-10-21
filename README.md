@@ -7,6 +7,7 @@
 ```
  2 CPU
  4 RAM
+ 50 GB SSD
  Ubuntu 20.04
 ```
 
